@@ -4,9 +4,9 @@
 Email Me 👉 ✉️ **pratikchafe45@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Citizens authority Management 
-- 🌱 **I’m currently learning:**MERN Stack 
-- 😄 **Pronouns:** patya
-- ⚡ **Fun fact:**I Love Tech and Tech Love Me
+- 🌱 **I’m currently learning:** MERN Stack 
+- 😄 **Pronouns:** Patya
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pratik-chafe-07a282394) 
 
