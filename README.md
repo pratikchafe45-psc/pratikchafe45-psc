@@ -21,6 +21,7 @@ Email Me 👉 ✉️ **pratikchafe45@gmail.com** For Collaboration/Project or An
 ![](https://github-profile-trophy.vercel.app/?username=pratikchafe45-psc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ✍️ Random Dev Quote
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
